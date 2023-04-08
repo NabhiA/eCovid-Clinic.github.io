@@ -2,9 +2,9 @@
 # PROJECT TITLE
 # ALL IN ONE COVID-19 PORTAL
 
-🏥 eCocid-Clinc
+🏥 eCovid-Clinc
 
-eCocid-Clinc It is a webpage that provides immediate updates and help for Covid-19
+eCovid-Clinc It is a webpage that provides immediate updates and help for Covid-19
 
 ## Introduction
 Our project is a web development based project. 
